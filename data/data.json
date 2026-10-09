@@ -1,0 +1,23 @@
+[
+    {
+        "title": "pasta",
+        "category": "dinner",
+        "ingredients": [
+            "dried pasta",
+            "tinned tomatoes",
+            "sugar",
+            "basil"
+        ],
+        "instructions": "fill a pan with water and heat until boiling"
+    },
+    {
+        "title": "gnocci",
+        "category": "dinner",
+        "ingredients": [
+            "gnocci",
+            "pesto",
+            "parmasian"
+        ],
+        "instructions": "heat water until boiling and then add the gnocci for 5 minutes, drain the gnocci and the then stir in 3 tablespoons of pesto and then grate parmasian cheese over the top"
+    }
+]
